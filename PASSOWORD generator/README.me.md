@@ -39,4 +39,4 @@ The project includes both a console version and a graphical user interface (GUI)
 
 ## Author
 
-Created by a 13-year-old developer learning Python!
+Created by a 13-year-old Talha Efe Ortatepe!
